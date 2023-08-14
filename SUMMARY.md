@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [About](README.md)
 * [00. 들어가며](00..md)
 * [01. 프로그래밍](01..md)
 * [02. 자바스크립트란?](02..md)
