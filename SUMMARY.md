@@ -20,4 +20,5 @@
 * [19 프로토타입](19.md)
 * [20 strict mode](20-strict-mode.md)
 * [21 빌트인 객체](21.md)
+* [24 클로저](24.md)
 * [33. 7번째 타입 Symbol](33.-7-symbol.md)
